@@ -1,0 +1,2 @@
+stormwings <100:10000
+Stormreach castle <100:12000

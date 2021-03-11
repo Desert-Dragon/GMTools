@@ -1,0 +1,38 @@
+CoastSUn|clear|clear|clearW|clearW|rain|rain|rainT|rainT|cloudy|cloudyW|
+TundraSUn|clear|clear|clearW|clearW|clearW|clearW|snowL|snowL|snowM|snowM|snowM|snowH|snowH|
+WastelandSUn|clear|clear|clear|clear|clear|rain|rainT|
+VolcanicSUn|ash|ash|ash|cloudTox|cloudTox|
+SnowpeakSUn|clear|clearW|cloudy|cloudyW|snowL|snowM|snowW|
+MountainSUn|clear|clear|clear|clearW|clearW|clearW|cloudy|cloudyW|snowL|snowM|snowH|snowW|
+ShaleSUn|clear|clearW|rainW|rainW|rainT|rainT|rain|rain|cloudyT|cloudyT|cloudy|
+HillsSUn|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|
+JungleSUn|clear|clear|clear|rain|rain|rain|rainT|FIRE|HEAT|APFSDSU|
+Evergreen forestSUn|clear|clear|rain|rain|rainW|rainW|rainT|rainT|cloudy|cloudy|FIRE|
+Deciduous forestSUn|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|FIRE|
+Dense forestSUn|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|rain|rainW|
+PlainsSUn|clear|clear|clear|clear|clear|rain|rainW|
+MarshSUn|clear|clear|rain|rain|rainW|rainW|rainT|rainT|
+SwampSUn|clear|clear|rain|rain|rainW|rainW|rainT|rainT|
+Sandy DesertSUn|clear|clear|clear|clear|clear|clear|clear|clear|clear|rain|
+Rocky DesertSUn|clear|clear|clear|clear|clear|clear|rain|rain|clear|
+DuneSUn|clear|clear|clear|clear|clearW|clearW|clearW|
+ScrubSUn|clear|clear|clearW|clear|clearW|rainW|rain|rain|rainW|
+CoastSUN|clear|clear|clearW|clearW|rain|rain|rainT|rainT|cloudy|cloudyW|hurricane|tidalwave|hurricane|hurricane|
+TundraSUN|clear|clear|clearW|clearW|clearW|clearW|snowL|snowL|snowM|snowM|snowM|snowH|snowH|blizzard|blizzard|
+WastelandSUN|clear|clear|clear|clear|clear|rain|rainT|
+VolcanicSUN|ash|ash|ash|cloudTox|cloudTox|acidrain|tremors|tremors|
+SnowpeakSUN|clear|clearW|cloudy|cloudyW|snowL|snowM|snowM|snowW|avalance|clearEW|cloudyEW|snowEW|
+MountainSUN|clear|clear|clear|clearW|clearW|clearW|cloudy|cloudyW|snowL|snowM|FIRE|snowW|rockslide|stormF|
+ShaleSUN|clear|clearW|rainW|rainW|rainT|rainT|rain|rain|cloudyT|cloudyT|cloudy|
+HillsSUN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|mudslide|stormF|HAIL|FIRE|
+JungleSUN|clear|clear|clear|rain|rain|rain|rainT|HEAT|stormF|stormF|FIRE|
+Evergreen forestSUN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|cloudy|cloudy|stormF|stormF|FIRE|
+Deciduous forestSUN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|stormF|stormF|FIRE|
+Dense forestSUN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|rain|rainW|stormF|stormF|FIRE|
+PlainsSUN|clear|clear|clear|clear|clear|rain|rainW|stormF|stormF|FIRE|
+MarshSUN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|stormF|
+SwampSUN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|HEAT|APFSDSU|
+Sandy DesertSUN|clear|clear|clear|clear|clear|clear|SAND|SAND|SAND|rain|HEAT|HEAT|
+Rocky DesertSUN|clear|clear|clear|clear|clear|clear|rain|rain|clear|
+DuneSUN|clear|clear|clear|clear|SAND|SAND|SANDWYRM|
+ScrubSUN|clear|clear|clearW|clear|clearW|rainW|rain|rain|rainW|stormF|stormF|

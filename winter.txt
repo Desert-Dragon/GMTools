@@ -1,0 +1,38 @@
+CoastWIn|clear|clear|clearWI|clearWI|snow|snow|snowT|snowT|cloudy|cloudyWI|
+TundraWIn|clear|clear|clearWI|clearWI|clearWI|clearWI|snowL|snowL|snowM|snowM|snowM|snowH|snowH|
+WastelandWIn|clear|clear|clear|clear|clear|snow|snowT|
+VolcanicWIn|ash|ash|ash|cloudTox|cloudTox|
+SnowpeakWIn|clear|clearWI|cloudy|cloudyWI|snowL|snowM|snowH|snowWI|
+MountainWIn|clear|clear|clear|clearWI|clearWI|clearWI|cloudy|cloudyWI|snowL|snowM|snowH|snowWI|
+ShaleWIn|clear|clearWI|snowWI|snowWI|snowT|snowT|snow|snow|cloudyT|cloudyT|cloudy|
+HillsWIn|clear|clearWI|snow|snowWI|snowT|cloudy|cloudyWI|
+JungleWIn|clear|clear|clear|snow|snow|snow|snowT|
+Evergreen forestWIn|clear|clear|snow|snow|snowWI|snowWI|snowT|snowT|cloudy|cloudy|
+Deciduous forestWIn|clear|clearWI|snow|snowWI|snowT|cloudy|cloudyWI|
+Dense forestWIn|clear|clearWI|snow|snowWI|snowT|cloudy|cloudyWI|snow|snowWI|
+PlainsWIn|clear|clear|clear|clear|clear|snow|snowWI|
+MarshWIn|clear|clear|snow|snow|snowWI|snowWI|snowT|snowT|
+SwampWIn|clear|clear|snow|snow|snowWI|snowWI|snowT|snowT|
+Sandy DesertWIn|clear|clear|clear|clear|clear|clear|clear|clear|clear|snow|
+Rocky DesertWIn|clear|clear|clear|clear|clear|clear|snow|snow|clear|
+DuneWIn|clear|clear|clear|clear|clearWI|clearWI|clearWI|
+ScrubWIn|clear|clear|clearWI|clear|clearWI|snowWI|snow|snow|snowWI|
+CoastWIN|clear|clear|clearWI|clearWI|snow|snow|snowT|snowT|cloudy|cloudyWI|hurricane|tidalwave|
+TundraWIN|clear|clear|clearWI|clearWI|clearWI|clearWI|snowL|snowL|snowM|snowM|snowM|snowH|snowH|blizzard|blizzard|
+WastelandWIN|clear|clear|clear|clear|clear|snow|snowT|
+VolcanicWIN|ash|ash|ash|cloudTox|cloudTox|acidsnow|tremors|tremors|
+SnowpeakWIN|clear|clearWI|cloudy|cloudyWI|snowL|snowM|snowH|snowWI|avalance|clearEWI|cloudyEWI|snowEWI|
+MountainWIN|clear|clear|clear|clearWI|clearWI|clearWI|cloudy|cloudyWI|snowL|snowM|snowH|snowWI|rockslide|stormF|
+ShaleWIN|clear|clearWI|snowWI|snowWI|snowT|snowT|snow|snow|cloudyT|cloudyT|cloudy|
+HillsWIN|clear|clearWI|snow|snowWI|snowT|cloudy|cloudyWI|mudslide|stormF|HAIL|
+JungleWIN|clear|clear|clear|snow|snow|snow|snowT|HEAT|stormF|stormF|
+Evergreen forestWIN|clear|clear|snow|snow|snowWI|snowWI|snowT|snowT|cloudy|cloudy|stormF|stormF|COLD|
+Deciduous forestWIN|clear|clearWI|snow|snowWI|snowT|cloudy|cloudyWI|stormF|stormF|COLD|
+Dense forestWIN|clear|clearWI|snow|snowWI|snowT|cloudy|cloudyWI|snow|snowWI|stormF|stormF|COLD|
+PlainsWIN|clear|clear|clear|clear|clear|snow|snowWI|stormF|stormF|COLD|
+MarshWIN|clear|clear|snow|snow|snowWI|snowWI|snowT|snowT|stormF|
+SwampWIN|clear|clear|snow|snow|snowWI|snowWI|snowT|snowT|HEAT|APFSDWI|
+Sandy DesertWIN|clear|clear|clear|clear|clear|clear|SAND|SAND|SAND|snow|HEAT|HEAT|
+Rocky DesertWIN|clear|clear|clear|clear|clear|clear|snow|snow|clear|
+DuneWIN|clear|clear|clear|clear|SAND|SAND|SANDWYRM|
+ScrubWIN|clear|clear|clearWI|clear|clearWI|snowWI|snow|snow|snowWI|stormF|stormF|

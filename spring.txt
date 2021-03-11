@@ -1,0 +1,38 @@
+CoastSn|clear|clear|clearW|clearW|rain|rain|rainT|rainT|cloudy|cloudyW|
+TundraSn|clear|clear|clearW|clearW|clearW|clearW|snowL|snowL|snowM|snowM|snowM|snowH|snowH|
+WastelandSn|clear|clear|clear|clear|clear|rain|rainT|
+VolcanicSn|ash|ash|ash|cloudTox|cloudTox|
+SnowpeakSn|clear|clearW|cloudy|cloudyW|snowL|snowM|snowH|snowW|
+MountainSn|clear|clear|clear|clearW|clearW|clearW|cloudy|cloudyW|snowL|snowM|snowH|snowW|
+ShaleSn|clear|clearW|rainW|rainW|rainT|rainT|rain|rain|cloudyT|cloudyT|cloudy|
+HillsSn|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|
+JungleSn|clear|clear|clear|rain|rain|rain|rainT|
+Evergreen forestSn|clear|clear|rain|rain|rainW|rainW|rainT|rainT|cloudy|cloudy|
+Deciduous forestSn|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|
+Dense forestSn|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|rain|rainW|
+PlainsSn|clear|clear|clear|clear|clear|rain|rainW|
+MarshSn|clear|clear|rain|rain|rainW|rainW|rainT|rainT|
+SwampSn|clear|clear|rain|rain|rainW|rainW|rainT|rainT|
+Sandy DesertSn|clear|clear|clear|clear|clear|clear|clear|clear|clear|rain|
+Rocky DesertSn|clear|clear|clear|clear|clear|clear|rain|rain|clear|
+DuneSn|clear|clear|clear|clear|clearW|clearW|clearW|
+ScrubSn|clear|clear|clearW|clear|clearW|rainW|rain|rain|rainW|
+CoastSN|clear|clear|clearW|clearW|rain|rain|rainT|rainT|cloudy|cloudyW|hurricane|tidalwave|
+TundraSN|clear|clear|clearW|clearW|clearW|clearW|snowL|snowL|snowM|snowM|snowM|snowH|snowH|blizzard|blizzard|
+WastelandSN|clear|clear|clear|clear|clear|rain|rainT|
+VolcanicSN|ash|ash|ash|cloudTox|cloudTox|acidrain|tremors|tremors|
+SnowpeakSN|clear|clearW|cloudy|cloudyW|snowL|snowM|snowH|snowW|avalance|clearEW|cloudyEW|snowEW|
+MountainSN|clear|clear|clear|clearW|clearW|clearW|cloudy|cloudyW|snowL|snowM|snowH|snowW|rockslide|stormF|
+ShaleSN|clear|clearW|rainW|rainW|rainT|rainT|rain|rain|cloudyT|cloudyT|cloudy|
+HillsSN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|mudslide|stormF|HAIL|
+JungleSN|clear|clear|clear|rain|rain|rain|rainT|HEAT|stormF|stormF|
+Evergreen forestSN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|cloudy|cloudy|stormF|stormF|COLD|
+Deciduous forestSN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|stormF|stormF|COLD|
+Dense forestSN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|rain|rainW|stormF|stormF|COLD|
+PlainsSN|clear|clear|clear|clear|clear|rain|rainW|stormF|stormF|COLD|
+MarshSN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|stormF|
+SwampSN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|HEAT|APFSDS|
+Sandy DesertSN|clear|clear|clear|clear|clear|clear|SAND|SAND|SAND|rain|HEAT|HEAT|
+Rocky DesertSN|clear|clear|clear|clear|clear|clear|rain|rain|clear|
+DuneSN|clear|clear|clear|clear|SAND|SAND|SANDWYRM|
+ScrubSN|clear|clear|clearW|clear|clearW|rainW|rain|rain|rainW|stormF|stormF|
