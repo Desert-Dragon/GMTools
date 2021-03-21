@@ -1,5 +1,5 @@
 import secrets
-import colorama
+#import colorama
 # -100 total war, -25 to 25 neutral, 100 best allies can be
 weather = {}
 # data = input("Enter data.txt file path")
@@ -62,9 +62,10 @@ def weatheru():
     print("Seasons: S, SU, F, WI")
     print("Magical Levels: N, L, H (N means natural)")
     s = str(input("Season?"))
-    me = ['n', 'N']
+    me = ['n', 'N', 'n', 'N', 'L', 'H']
     m = str(secrets.choice(me))
     for i in c:
+        m = str(secrets.choice(me))
         clim = weather[str(i) + str(s) + str(m)]
         CW = secrets.choice(clim)
         print("your weather for", i, "is ", CW)

@@ -18,21 +18,59 @@ Rocky DesertFn|clear|clear|clear|clear|clear|clear|rain|rain|clear|
 DuneFn|clear|clear|clear|clear|clearW|clearW|clearW|
 ScrubFn|clear|clear|clearW|clear|clearW|rainW|rain|rain|rainW|
 CoastFN|clear|clear|clearW|clearW|rain|rain|rainT|rainT|cloudy|cloudyW|hurricane|tidalwave|
-TundraFN|clear|clear|clearW|clearW|clearW|clearW|snowL|snowL|snowM|snowM|snowM|snowH|snowH|blizzard|blizzard|
-WastelandFN|clear|clear|clear|clear|clear|rain|rainT|
+TundraFN|clear|clear|clearW|clearW|clearW|clearW|snowL|snowL|snowM|snowM|snowM|snowH|snowH|blizzard|blizzard|TORNADOs|
+WastelandFN|clear|clear|clear|clear|clear|rain|rainT|TORNADOs|
 VolcanicFN|ash|ash|ash|cloudTox|cloudTox|acidrain|tremors|tremors|
 SnowpeakFN|clear|clearW|cloudy|cloudyW|snowL|snowM|snowH|snowW|avalance|clearEW|cloudyEW|snowEW|
 MountainFN|clear|clear|clear|clearW|clearW|clearW|cloudy|cloudyW|snowL|snowM|snowH|snowW|rockslide|stormF|
 ShaleFN|clear|clearW|rainW|rainW|rainT|rainT|rain|rain|cloudyT|cloudyT|cloudy|
-HillsFN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|mudslide|stormF|HAIL|
+HillsFN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|mudslide|stormF|HAIL|TORNADOs|
 JungleFN|clear|clear|clear|rain|rain|rain|rainT|HEAT|stormF|stormF|
-Evergreen forestFN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|cloudy|cloudy|stormF|stormF|COLD|
-Deciduous forestFN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|stormF|stormF|COLD|
-Dense forestFN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|rain|rainW|stormF|stormF|COLD|
-PlainsFN|clear|clear|clear|clear|clear|rain|rainW|stormF|stormF|COLD|
+Evergreen forestFN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|cloudy|cloudy|stormF|stormF|COLD|TORNADOs|
+Deciduous forestFN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|stormF|stormF|COLD|TORNADOs|
+Dense forestFN|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|rain|rainW|stormF|stormF|COLD|TORNADOs|
+PlainsFN|clear|clear|clear|clear|clear|rain|rainW|stormF|stormF|COLD|TORNADOs|TORNADOs|
 MarshFN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|stormF|
-SwampFN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|HEAT|APFFDF|
-Sandy DesertFN|clear|clear|clear|clear|clear|clear|FAND|FAND|FAND|rain|HEAT|HEAT|
-Rocky DesertFN|clear|clear|clear|clear|clear|clear|rain|rain|clear|
-DuneFN|clear|clear|clear|clear|FAND|FAND|FANDWYRM|
-ScrubFN|clear|clear|clearW|clear|clearW|rainW|rain|rain|rainW|stormF|stormF|
+SwampFN|clear|clear|rain|rain|rainW|rainW|rainT|rainT|HEAT|APFSDS|
+Sandy DesertFN|clear|clear|clear|clear|clear|clear|SAND|SAND|SAND|rain|HEAT|HEAT|TORNADOs|
+Rocky DesertFN|clear|clear|clear|clear|clear|clear|rain|rain|clear|TORNADOs|
+DuneFN|clear|clear|clear|clear|SAND|SAND|SANDWYRM|TORNADOs|
+ScrubFN|clear|clear|clearW|clear|clearW|rainW|rain|rain|rainW|stormF|stormF|TORNADOs|TORNADOs|
+CoastFL|clear|clear|clearW|clearW|rain|rain|rainT|rainT|cloudy|cloudyW|hurricane|tidalwave|tidalwave|STORMM|STORMM|FREEZE|
+TundraFL|clear|clear|clearW|clearW|clearW|clearW|snowL|snowL|snowM|snowM|snowM|snowH|snowH|blizzard|blizzard|FREEZE|FREEZE|COLD|STORMM|TORNADO|
+WastelandFL|clear|clear|clear|clear|clear|rain|rainT|STORMM|STORMM|HAIL|TORNADO|
+VolcanicFL|ash|ash|ash|cloudTox|cloudTox|acidrain|tremors|tremors|DEBRIS|DEBRIS|
+SnowpeakFL|clear|clearW|cloudy|cloudyW|snowL|snowM|snowH|snowW|avalance|clearEW|cloudyEW|snowEW|WINDM|FREEZE|FREEZE|
+MountainFL|clear|clear|clear|clearW|clearW|clearW|cloudy|cloudyW|SNOWM|FREEZE|FREEZE|STORMM|HAILM|
+ShaleFL|clear|clearW|rainW|rainW|rainT|rainT|rain|rain|STORMM|STORMM|WINDM|WINDM|ELECTRICAL|TORNADO|TORNADO|
+HillsFL|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|mudslide|stormF|HAIL|mudslide|STORMM|STORMM|FIREM|FOGM|
+JungleFL|clear|clear|clear|rain|rain|rain|rainT|HEAT|stormF|stormF|FLOOD|FOGM|STORMM|TORNADO|
+Evergreen forestFL|clear|clear|rain|rain|rainW|rainW|rainT|rainT|COLD|FREEZEM|HAILM|FOGM|TORNADO|
+Deciduous forestFL|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|stormF|stormF|FREEZEM|FREEZEM|HAILM|STORMM|TORNADO|
+Dense forestFL|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|rain|COLD|STORMM|STORMM|FIREM|APFSDS|TORNADO|
+PlainsFL|clear|clear|clear|clear|clear|rain|rainW|stormF|stormF|COLD|STORMM|STORMM|FIREM|TORNADO|
+MarshFL|clear|clear|rain|rain|rainW|rainW|rainT|rainT|stormF|STORMM|FOG|FOG|
+SwampFL|clear|clear|rain|rain|rainW|rainW|rainT|rainT|HEAT|APFSDS|FOG|FLOOD|STORMM|
+Sandy DesertFL|clear|clear|clear|clear|clear|clear|SAND|SAND|SAND|rain|HEAT|HEAT|ELECTRICAL|ELECTRICAL|TORNADO|
+Rocky DesertFL|clear|clear|clear|clear|clear|clear|rain|rain|clear|STORMM|STORMM|TORNADO|
+DuneFL|clear|clear|clear|clear|SAND|SAND|SANDWYRM|ELECTRICAL|ELECTRICAL|TORNADO|
+ScrubFL|clear|clear|clearW|clear|clearW|rainW|rain|rain|rainW|stormF|stormF|STORMM|STORMM|TORNADO|TORNADO|
+CoastFH|clear|clear|clearW|clearW|rain|rain|rainT|rainT|cloudy|cloudyW|hurricane|tidalwave|tidalwave|STORMM|STORMM|FREEZEM|FOGF|FOGD|
+TundraFH|clear|clear|clearW|clearW|clearW|clearW|snowL|snowL|snowM|snowM|snowM|snowH|snowH|blizzard|blizzard|FREEZE|FREEZEM|COLD|STORMM|TORNADO|FOGF|FOGD|
+WastelandFH|clear|clear|clear|clear|clear|rain|rainT|STORMM|STORMM|HAIL|TORNADO|FREEZEM|FOGF|FOGD|
+VolcanicFH|ash|ash|ash|cloudTox|cloudTox|acidrain|tremors|tremors|DEBRIS|DEBRIS|FOGF|FOGD|
+SnowpeakFH|clear|clearW|cloudy|cloudyW|snowL|snowM|snowH|snowW|avalance|clearEW|cloudyEW|snowEW|WINDM|FREEZE|FREEZE|FOGF|FOGD|
+MountainFH|clear|clear|clear|clearW|clearW|clearW|cloudy|cloudyW|SNOWM|FREEZE|FREEZEM|STORMM|HAILM|FOGF|FOGD|
+ShaleFH|clear|clearW|rainW|rainW|rainT|rainT|rain|rain|STORMM|STORMM|WINDM|WINDM|ELECTRICAL|TORNADO|TORNADO|FOGF|FOGD|
+HillsFH|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|mudslide|stormF|HAIL|mudslide|STORMM|STORMM|FIREM|FOGM|FOGF|FOGD|
+JungleFH|clear|clear|clear|rain|rain|rain|rainT|HEAT|stormF|stormF|FLOOD|FOGM|STORMM|TORNADO|FOGF|FOGD|
+Evergreen forestFH|clear|clear|rain|rain|rainW|rainW|rainT|rainT|COLD|FREEZEM|HAILM|FOGM|TORNADO|FOGF|FOGD|
+Deciduous forestFH|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|stormF|stormF|FREEZEM|FREEZEM|HAILM|STORMM|TORNADO|FOGF|FOGD|
+Dense forestFH|clear|clearW|rain|rainW|rainT|cloudy|cloudyW|rain|COLD|STORMM|STORMM|FIREM|APFSDS|TORNADO|FOGF|FOGD|
+PlainsFH|clear|clear|clear|clear|clear|rain|rainW|stormF|stormF|COLD|STORMM|STORMM|FIREM|TORNADO|FOGF|FOGD|
+MarshFH|clear|clear|rain|rain|rainW|rainW|rainT|rainT|stormF|STORMM|FOG|FOG|FOGF|FOGD|
+SwampFH|clear|clear|rain|rain|rainW|rainW|rainT|rainT|HEAT|APFSDS|FOG|FLOOD|STORMM|FOGF|FOGD|
+Sandy DesertFH|clear|clear|clear|clear|clear|clear|SAND|SAND|SAND|rain|HEAT|HEAT|ELECTRICAL|ELECTRICAL|TORNADO|FOGF|FOGD|
+Rocky DesertFH|clear|clear|clear|clear|clear|clear|rain|rain|clear|STORMM|STORMM|TORNADO|FOGF|FOGD|
+DuneFH|clear|clear|clear|clear|SAND|SAND|SANDWYRM|ELECTRICAL|ELECTRICAL|TORNADO|FOGF|FOGD|
+ScrubFH|clear|clear|clearW|clear|clearW|rainW|rain|rain|rainW|stormF|stormF|STORMM|STORMM|TORNADO|TORNADO|FOGF|FOGD|
